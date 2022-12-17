@@ -30,4 +30,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 Building
 ----------------------
-See [BUILDING.md](./BUILDING.md)
+See [BUILDING.md](./index.html)
